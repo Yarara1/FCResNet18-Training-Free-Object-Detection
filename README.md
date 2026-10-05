@@ -1,5 +1,4 @@
 # FCResNet18-Training-Free-Object-Detection
-# Training-Free Object Detection with FCResNet18
 
 This project converts an **ImageNet-pretrained ResNet-18** into a fully convolutional network for **training-free object localization**.
 
